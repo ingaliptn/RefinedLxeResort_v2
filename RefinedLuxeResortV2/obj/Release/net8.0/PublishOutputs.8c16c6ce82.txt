@@ -1,0 +1,7 @@
+/Users/ingaliptn/Desktop/Work2021/Pubs/RefinedLuxeResortV2Pub/RefinedLuxeResortV2
+/Users/ingaliptn/Desktop/Work2021/Pubs/RefinedLuxeResortV2Pub/appsettings.Development.json
+/Users/ingaliptn/Desktop/Work2021/Pubs/RefinedLuxeResortV2Pub/appsettings.json
+/Users/ingaliptn/Desktop/Work2021/Pubs/RefinedLuxeResortV2Pub/RefinedLuxeResortV2.dll
+/Users/ingaliptn/Desktop/Work2021/Pubs/RefinedLuxeResortV2Pub/RefinedLuxeResortV2.deps.json
+/Users/ingaliptn/Desktop/Work2021/Pubs/RefinedLuxeResortV2Pub/RefinedLuxeResortV2.runtimeconfig.json
+/Users/ingaliptn/Desktop/Work2021/Pubs/RefinedLuxeResortV2Pub/RefinedLuxeResortV2.pdb
