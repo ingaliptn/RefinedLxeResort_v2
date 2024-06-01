@@ -1,0 +1,7 @@
+C:\Repos\Work\RefinedLxeResort_v2\RefinedLuxeResortV2\obj\Release\net8.0\PubTmp\Out\RefinedLuxeResortV2.exe
+C:\Repos\Work\RefinedLxeResort_v2\RefinedLuxeResortV2\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Repos\Work\RefinedLxeResort_v2\RefinedLuxeResortV2\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Repos\Work\RefinedLxeResort_v2\RefinedLuxeResortV2\obj\Release\net8.0\PubTmp\Out\RefinedLuxeResortV2.dll
+C:\Repos\Work\RefinedLxeResort_v2\RefinedLuxeResortV2\obj\Release\net8.0\PubTmp\Out\RefinedLuxeResortV2.deps.json
+C:\Repos\Work\RefinedLxeResort_v2\RefinedLuxeResortV2\obj\Release\net8.0\PubTmp\Out\RefinedLuxeResortV2.runtimeconfig.json
+C:\Repos\Work\RefinedLxeResort_v2\RefinedLuxeResortV2\obj\Release\net8.0\PubTmp\Out\RefinedLuxeResortV2.pdb
