@@ -16,7 +16,7 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult TermsOfService()
+    public IActionResult TermsAndConditions()
     {
         return View();
     }

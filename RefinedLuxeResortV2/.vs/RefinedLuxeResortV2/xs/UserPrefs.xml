@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{BF786554-6CB9-442E-86E1-A55B02AEE140}|https">
-  <MonoDevelop.Ide.ItemProperties.RefinedLuxeResortV2 FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="19" Column="32" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Views/Home/Index.cshtml" />
+      <File FileName="Views/Home/News_Blog_Details.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RefinedLuxeResortV2">
+            <Node name="RefinedLuxeResortV2" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RefinedLuxeResortV2 PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
