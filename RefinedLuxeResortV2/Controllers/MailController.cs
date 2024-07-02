@@ -62,11 +62,11 @@ namespace RefinedLuxeResortV2.Controllers;
         private string ConstructBodyFromContactUsModel(ContactUsModel bn)
         {
             return $"Contact request from Refined Luxe Resort<br />" +
-           $"Details: <br /><br />" +
+           $"Details: <br />" +
            $"Name: {bn.Name}<br>" +
            $"Phone: {bn.Phone}<br>" +
            $"Email: {bn.Email}<br>" +
-           $"Date: {bn.Date.ToString()}<br>" +
+           $"Date: {String.Format("{0:dddd, MMMM d, yyyy}", bn.Date)}<br>" +
            $"Message: {bn.Message}";
 		}
     }

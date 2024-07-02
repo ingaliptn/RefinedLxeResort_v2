@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RefinedLuxeResortV2"
+    "\\RefinedLuxeResortV2",
+    "\\RefinedLuxeResortV2\\Controllers",
+    "\\RefinedLuxeResortV2\\Views",
+    "\\RefinedLuxeResortV2\\Views\\Home"
   ],
-  "SelectedNode": "\\RefinedLuxeResortV2\\RefinedLuxeResortV2.sln",
+  "SelectedNode": "\\RefinedLuxeResortV2\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

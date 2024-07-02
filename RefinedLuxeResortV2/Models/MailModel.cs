@@ -12,7 +12,7 @@ namespace RefinedLuxeResortV2.Models
         public string Password { get; set; } = "Z326050r@";
         public string FromName { get; set; } = "Refined Luxe Travel";
         public string FromEmail { get; set; } = "relay@serverpipe.org";
-        public string ToEmail { get; set; } = "nikitatkachuk6@gmail.com";// lissa@refinedluxetravel.com";
+        public string ToEmail { get; set; } = "lissa@refinedluxetravel.com";
         public string? Subject { get; set; }
         public string? Body { get; set; }
 

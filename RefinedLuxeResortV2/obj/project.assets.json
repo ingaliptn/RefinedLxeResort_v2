@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/ingaliptn/.nuget/packages/": {}
+    "C:\\Users\\nikit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ingaliptn/Desktop/Work2021/RefinedLxeResort_v2/RefinedLuxeResortV2/RefinedLuxeResortV2.csproj",
+      "projectUniqueName": "C:\\Repos\\Work\\RefinedLxeResort_v2\\RefinedLuxeResortV2\\RefinedLuxeResortV2.csproj",
       "projectName": "RefinedLuxeResortV2",
-      "projectPath": "/Users/ingaliptn/Desktop/Work2021/RefinedLxeResort_v2/RefinedLuxeResortV2/RefinedLuxeResortV2.csproj",
-      "packagesPath": "/Users/ingaliptn/.nuget/packages/",
-      "outputPath": "/Users/ingaliptn/Desktop/Work2021/RefinedLxeResort_v2/RefinedLuxeResortV2/obj/",
+      "projectPath": "C:\\Repos\\Work\\RefinedLxeResort_v2\\RefinedLuxeResortV2\\RefinedLuxeResortV2.csproj",
+      "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\Work\\RefinedLxeResort_v2\\RefinedLuxeResortV2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ingaliptn/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
