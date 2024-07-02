@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Repos\Work\RefinedLxeResort_v2\RefinedLuxeResortV2\../../Pubs/RefinedLuxeResortV2Pub</_PublishTargetUrl>
-    <History>True|2024-07-02T16:31:57.5954313Z;True|2024-06-01T23:35:23.7945057+03:00;True|2024-06-01T23:32:11.6038073+03:00;True|2024-06-01T22:59:58.0109638+03:00;True|2024-06-01T22:59:47.0098183+03:00;</History>
+    <History>True|2024-07-02T17:53:04.0533482Z;True|2024-07-02T20:53:00.0918538+03:00;True|2024-07-02T19:31:57.5954313+03:00;True|2024-06-01T23:35:23.7945057+03:00;True|2024-06-01T23:32:11.6038073+03:00;True|2024-06-01T22:59:58.0109638+03:00;True|2024-06-01T22:59:47.0098183+03:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

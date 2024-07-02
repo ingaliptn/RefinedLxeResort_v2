@@ -3,9 +3,10 @@
     "",
     "\\RefinedLuxeResortV2",
     "\\RefinedLuxeResortV2\\Controllers",
+    "\\RefinedLuxeResortV2\\Models",
     "\\RefinedLuxeResortV2\\Views",
     "\\RefinedLuxeResortV2\\Views\\Home"
   ],
-  "SelectedNode": "\\RefinedLuxeResortV2\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\RefinedLuxeResortV2\\Models\\MailModel.cs",
   "PreviewInSolutionExplorer": false
 }
